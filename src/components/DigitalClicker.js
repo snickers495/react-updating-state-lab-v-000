@@ -9,7 +9,7 @@ export default class DigitalClicker extends React.Component {
   }
   render(){
     return(
-      <button onClick={handleClick}></button>
+      <button onClick={this.handleClick}></button>
     )
   }
 }
