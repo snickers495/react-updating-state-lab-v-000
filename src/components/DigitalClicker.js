@@ -9,7 +9,7 @@ export default class DigitalClicker extends React.Component {
   }
 
   handleClick = (){
-    this.setState({timesClicked: timesClicked })
+    this.setState({timesClicked: this.state.})
   }
   render(){
     return(
