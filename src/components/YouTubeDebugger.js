@@ -19,7 +19,9 @@ export default class YouTubeDebugger extends React.Component {
   }
 
   handleRes = (){
-    this.setState
+    this.setState({
+      settings: 
+    })
   }
   render(){
     return(
