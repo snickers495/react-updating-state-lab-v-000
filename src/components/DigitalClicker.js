@@ -1,2 +1,2 @@
 // Code DigitalClicker Component Here
-import
+import React from 'react';
