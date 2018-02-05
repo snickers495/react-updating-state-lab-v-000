@@ -1,3 +1,3 @@
 // Code DigitalClicker Component Here
 import React from 'react';
-export defa
+export default class DigitalClicker 
