@@ -7,6 +7,8 @@ export default class DigitalClicker extends React.Component {
       timesClicked: 0
     }
   }
+
+  handleClick = )
   render(){
     return(
       <button onClick={this.handleClick}></button>
