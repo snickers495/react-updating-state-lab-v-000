@@ -18,7 +18,9 @@ export default class YouTubeDebugger extends React.Component {
     })
   }
 
-  handleRes = 
+  handleRes = (){
+    
+  }
   render(){
     return(
       <div>
