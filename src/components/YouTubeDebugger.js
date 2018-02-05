@@ -8,8 +8,7 @@ export default class YouTubeDebugger extends React.Component {
       errors: [],
       user: null,
       settings: { bitrate: 8,
-                  video:
-                  { resolution: '1080p' } }
+                  video: { resolution: '1080p' } }
     }
   }
 
@@ -18,7 +17,7 @@ export default class YouTubeDebugger extends React.Component {
   }
   render(){
     return(
-      <button onClick={this.handleClick}>{this.state.timesClicked}</button>
+      <button className=onClick={this.handleClick}>{this.state.timesClicked}</button>
     )
   }
 }
