@@ -8,6 +8,8 @@ export default class DigitalClicker extends React.Component {
     }
   }
   render(){
-    return()
+    return(
+      <button>
+    )
   }
 }
