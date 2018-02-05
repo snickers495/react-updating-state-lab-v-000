@@ -13,7 +13,7 @@ export default class YouTubeDebugger extends React.Component {
   }
 
   handleBit = (){
-    this.setState({timesClicked: this.state.timesClicked++})
+    this.setState({: this.state.timesClicked++})
   }
   render(){
     return(
