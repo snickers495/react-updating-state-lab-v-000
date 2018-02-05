@@ -23,7 +23,7 @@ export default class YouTubeDebugger extends React.Component {
       settings: {...this.state.settings,
                 video: {
                   ...this.state.settings.video,
-                  resolution
+                  resolution: '720p'
                 }}
     })
   }
